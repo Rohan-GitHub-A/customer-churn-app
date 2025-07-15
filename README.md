@@ -6,7 +6,7 @@ This project predicts whether a telecom customer will churn or not using machine
 
 ## 🚀 Live Demo
 
-🔗 [Click here to try the app]([https://customer-churn-app-<your-link>.streamlit.app](https://customer-churn-app-lsxi8cetbfgnxfokpmzv7r.streamlit.app/))
+🔗 [Click here to try the app](https://customer-churn-app-lsxi8cetbfgnxfokpmzv7r.streamlit.app/)
 
 ---
 
